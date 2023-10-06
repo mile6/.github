@@ -1,34 +1,30 @@
-<!-- 
-Thanks for creating this pull request 🤗
-
-Please make sure that the pull request is limited to one type (docs, feature, etc.) and keep it as small as possible. 
-You can open multiple prs instead of opening a huge one.
+### Description
+<!--
+please describe your changes in enough detail that the reviewing dev can effectively review the work done
+please also provide any links to relevant documentation, blog posts, etc. that you may have used that would be helpful for the review and any related tasks
+include information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc.
 -->
 
-## 📑 Description
-<!-- Add a brief description of the pr -->
+<!-- =============== If this is a regular PR please use the following template =============== -->
+<!-- ### Screenshots / Recordings (if applicable) -->
 
-<!-- You can also choose to add a list of changes and if they have been completed or not by using the markdown to-do list syntax
-- [ ] Not Completed
-- [x] Completed
+<!-- =============== If this is an incident PR please use the following template -=============== ->
+
+<!-- These following sections can simply be copied from the Jira task if provided and provide enough detail -->
+
+<!--
+
+### Errors (if applicable)
+
+### Steps To Reproduce
+1. 
+2. 
+3. 
+
+### Expected behavior
+
+### Actual behavior
+
+### Screenshots / Screen Recordings
+
 -->
-
-<!-- If this pull request closes an issue, please mention the issue number below -->
-### Affected Github Issues
-- Closes # <!-- Issue # here -->
-
-<!-- For internal use, if this is related to a Jira/Asana task please add links to these tasks below, using the correct format. -->
-### Affected Issues from Jira
-- [{project_code}-{issue_number}](issue_link)
-
-### Affected Issues from Asana
-- [task name](task_link)
-
-## ✅ Checks
-<!-- Make sure your pr passes the CI checks and do check the following fields as needed - -->
-- [ ] My pull request adheres to the code style of this project
-- [ ] I have updated the documentation as required
-- [ ] All the tests have passed
-
-## ℹ Additional Information
-<!-- Any additional information like breaking changes, dependencies added, screenshots, comparisons between new and old behavior, etc. -->
